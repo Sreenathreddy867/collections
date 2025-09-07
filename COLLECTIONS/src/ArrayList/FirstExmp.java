@@ -84,6 +84,9 @@ public class FirstExmp {
 		System.out.println(b);  //[20, 40]
 		a1.retainAll(b);
 		System.out.println(a1);  //[20, 40]
+		
+		//SREENATH REDDY VENKATANNAGARI
+		System.out.println("SREEnath Reddy VENKAtannagari...");
 	}
 	
 
